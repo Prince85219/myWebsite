@@ -1,0 +1,40 @@
+.youtube-link {
+    display: flex;
+    justify-content: flex-end;
+  
+}
+.main-header{
+    display: flex;
+    justify-content: center;
+    color: brown;
+}
+
+#paragraph,#list{
+    color: brown;
+}
+
+.link{
+    display: flex;
+    justify-content: flex-end;
+}
+.header{
+    color: brown;
+}
+
+#link{
+    display: flex;
+    justify-content: flex-end;
+}
+#header{
+    color:brown;
+}
+#header,.paragraph{
+    display: flex;
+    justify-content: center;
+}
+
+.main-link{
+    display: flex;
+    justify-content: center;
+}
+
